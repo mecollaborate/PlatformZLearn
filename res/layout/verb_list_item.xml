@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <!-- From Label -->
+
+    <TextView
+        android:id="@+id/verb_word"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dip"
+        android:paddingLeft="8dip"
+        android:paddingTop="8dip"
+        android:textSize="20dip"
+        android:textColor="@color/list_v_fontcolor"
+        android:textStyle="bold" />
+
+    <!-- Mail Subject -->
+
+    <TextView
+        android:id="@+id/verb_meaning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/verb_word"
+        android:paddingBottom="6dip"
+        android:paddingLeft="8dip"
+        android:textColor="@color/list_v_fontcolor"
+        android:textSize="15dip" />
+
+    <TextView
+        android:id="@+id/verb_p1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/verb_word"
+        android:layout_toRightOf="@id/verb_meaning"
+        android:paddingBottom="6dip"
+        android:paddingLeft="8dip"
+        android:textColor="@color/list_v_fontcolor"
+        android:textSize="15dip" />
+
+    <TextView
+        android:id="@+id/verb_p2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/verb_word"
+        android:layout_toRightOf="@id/verb_p1"
+        android:paddingBottom="6dip"
+        android:paddingLeft="8dip"
+        android:textColor="@color/list_v_fontcolor"
+        android:textSize="15dip" />
+    <!-- Mail date -->
+
+    <TextView
+        android:id="@+id/verb_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/list_v_fontcolor"
+        android:padding="8dip" />
+
+</RelativeLayout>

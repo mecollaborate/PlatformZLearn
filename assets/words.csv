@@ -1,0 +1,826 @@
+﻿"Baby	";"Baby	";"das	";"Babys	";;;Nomen
+Bank;"	Bank	";"die	";"Banken	";;;Nomen
+"Blume	";"Flower	";"die	";"Blumen	";;;Nomen
+"Bus	";"Bus	";"der	";"Busse	";;;Nomen
+"Film	";"Film	";"der	";"Filme	";;;Nomen
+"Frau	";"Woman	";"die	";"Frauen	";;;Nomen
+"Geschenk	";"Gift	";"das	";"Geshenke	";;;Nomen
+"Gleis	";"Platform	";"das	";"Gleise	";;;Nomen
+"Herr	";"Man	";"der	";"Herren	";;;Nomen
+"Hotel	";"Hotel	";"das	";"Hotels	";;;Nomen
+"Information	";"Information	";"die	";"Informationen	";;;Nomen
+"Junge	";"Boy	";"der	";"Jungen	";;;Nomen
+Mädchen;-;das;;;;Nomen
+"Mama	";"Mom	";"die	";"Mamas	";;;Nomen
+"Moment	";"Moment	";"der	";"Momente	";;;Nomen
+"Nachname	";"Last name	";"der	";"Nachnamen	";;;Nomen
+"Name	";"Name	";"der	";"Namen	";;;Nomen
+"Polizistin	";"Policeman/woman	";"die	";"Polizistinnen	";;;Nomen
+"Reise	";"Trip	";"die	";"Reisen	";;;Nomen
+"Reporter	";"Reporter	";"der	";"-	";;;Nomen
+"Saft	";"Juice	";"der	";"Säfte	";;;Nomen
+"Sängerin	";"Singer	";"die	";"Sängerinnen	";;;Nomen
+"Tag	";"Day	";"der	";"Tage	";;;Nomen
+"Taxi	";"Taxi	";"das	";"Taxis	";;;Nomen
+"Telefon	";"Telefon	";"das	";"Telefone	";;;Nomen
+"Toilette	";"Toilet	";"die	";"Toiletten	";;;Nomen
+"Tourist	";"Tourist	";"der	";"Touristen	";;;Nomen
+"Touristin	";"Tourist""";die    ;"Touristinnen""";;;Nomen
+"Uhr	";"Clock	";"die	";"Uhren	";;;Nomen
+"Verkäuferin	";"Sales man/woman	";"die	";"Verkäuferinnen	";;;Nomen
+"Vorname	";"First name	";"der	";"Vornamen	";;;Nomen
+"Zeitung	";"Newspaper	";"die	";"Zeitungen	";;;Nomen
+"Zentrum	";"center	";"das	";"Zentren	";;;Nomen
+"Zoo	";"zoo	";"der	";"Zoos	";;;Nomen
+"Zug	";"Train	";"der	";"Züge	";;;Nomen
+"Anrufbeantworter	";"answering machine	";"der	";"-	";;;Nomen
+"Batterie	";"batterie	";"die	";"Batterien	";;;Nomen
+"Computer	";"Computer	";"der	";"-	";;;Nomen
+"Deckel	";"Lid/cap	";"der	";"-	";;;Nomen
+"DVD-Recorder	";"DVD recorder	";"der	";"-	";;;Nomen
+"Fahrrad	";"bicycle	";"das	";"Fahrräder	";;;Nomen
+"Fernsehgerät	";"TV set	";"das	";"Fernsehgeräte	";;;Nomen
+"Feuerzeug	";"lighter	";"das	";"Feuerzeuge	";;;Nomen
+"Fotoapparat	";"camara	";"der	";"Fotoapparate	";;;Nomen
+"Gabel	";"fork	";"die	";"Gablen	";;;Nomen
+"Gegenstand	";"item	";"der	";"Gegenstände	";;;Nomen
+"Geschirrspüler	";"dishwasher	";"der	";"-	";;;Nomen
+"Gummistiefel	";"rubber boot	";"der	";"-	";;;Nomen
+"Hammer	";"hammer	";"der	";"Hämmer	";;;Nomen
+"Kerze	";"candle	";"die	";"Kerzen	";;;Nomen
+"Küchenuhr	";"kitchen clock	";"die	";"Küchenuhren	";;;Nomen
+"Mantel	";"coat	";"der	";"Mäntel	";;;Nomen
+"Messer	";"knife	";"das	";"-	";;;Nomen
+"MP3-Plazer	";"mp3 player	";"der	";"-	";;;Nomen
+"Münze	";"coin	";"die	";"Münzen	";;;Nomen
+"Nachbar	";"neighbour	";"der	";"Nachbarn	";;;Nomen
+"Nagel	";"nail	";"der	";"Nägel	";;;Nomen
+"Pflaster	";"plaster	";"das	";"-	";;;Nomen
+"Plattenspieler	";"record player	";"der	";"-	";;;Nomen
+"Regenschirm	";"umbrellan	";"der	";"Regenschrimme	";;;Nomen
+"Situation	";"situation	";"die	";"Situationen	";;;Nomen
+"Sonnenbrille	";"sun glasses	";"die	";"Sonnenbrillen	";;;Nomen
+"Strumpf	";"stocking	";"der	";"Strümpfe	";;;Nomen
+"Taschentuch	";"Handkerchief	";"das	";"Taschentücher	";;;Nomen
+"Telefonbuch	";"phone book	";"das	";"Telefonbücher	";;;Nomen
+"Telefonkarte	";"phone card	";"die	";"Telefonkarten	";;;Nomen
+"Topf	";"Pan	";"der	";"Töpfe	";;;Nomen
+"Umzug	";"move	";"der	";"Umzüge	";;;Nomen
+"CD	";"CD	";"die	";"CDs	";;;Nomen
+"Digitalkamera	";"digital camera	";"die	";"Digitalkaneras	";;;Nomen
+"Ding	";"thing	";"das	";"Dinge	";;;Nomen
+"Freiheit	";"freedom	";"die	";"-	";;;Nomen
+"FuSS	";"foot	";"der	";"FüSSe	";;;Nomen
+"Haus	";"house	";"das	";"Haüser	";;;Nomen
+"Kamera	";"camera	";"die	";"Kameras	";;;Nomen
+"Kiosk	";"kiosk	";"der	";"Kioske	";;;Nomen
+"Kühlschrank	";"fridge	";"der	";"Kühlschränke	";;;Nomen
+"Krokodil	";"crocodile	";"das	";"Krokodile	";;;Nomen
+"Leben	";"life/living	";"das	";"-	";;;Nomen
+"Maus	";"mouse	";"die	";"Maüse	";;;Nomen
+"Möbel	";"furniture	";"das	";"-	";;;Nomen
+"Motorrad	";"motorcycle	";"das	";"Motorräder	";;;Nomen
+"Platz	";"place	";"der	";"Plätze	";;;Nomen
+"Schlafzimmer	";"bedroom	";"das	";"-	";;;Nomen
+"Sommer	";"summer	";"der	";"-	";;;Nomen
+"Sozialarbeiterin	";"social worker	";"die	";"Sozialarbeiterinnen	";;;Nomen
+"Spinne	";"Spider	";"die	";"Spinnen	";;;Nomen
+"Tier	";"animal	";"das	";"Tiere	";;;Nomen
+"Tisch	";"table	";"der	";"Tische	";;;Nomen
+"Unterhaltung	";"amusement	";"die	";"Unterhaltungen	";;;Nomen
+"Wagen	";"car	";"der	";"-	";;;Nomen
+"Wohnung	";"apartment	";"der	";"Wohnungen	";;;Nomen
+"Zimmer	";"room	";"das	";"-	";;;Nomen
+"Anzeige	";"ad	";"die	";"Anzeigen	";;;Nomen
+"Apartment	";"apartment	";"das	";"Apartments	";;;Nomen
+"Balkon	";"balcony	";"der	";"Balkons	";;;Nomen
+"Besteck	";"cutlery	";"das	";"Bestecke	";;;Nomen
+"Bett	";"bed	";"das	";"Betten	";;;Nomen
+"Biologie	";"biologie	";"die		";Nomen;;;Nomen
+"Haustier	";"pet	";"das	";"Haustiere	";;;Nomen
+"Herd	";"stove	";"der	";"Herde	";;;Nomen
+"Küche	";"kitchen	";"die	";"Küchen	";;;Nomen
+"Lampe	";"lamp	";"die	";"Lampen	";;;Nomen
+"Löffel	";"spoon	";"der	";"-	";;;Nomen
+"Mathematik	";"mathematics	";"die	";"-	";;;Nomen
+"Miete	";"rent	";"die	";"Mieten	";;;Nomen
+"Physik	";"physics	";"die	";"-	";;;Nomen
+"Quadratmeter	";square meter;der;-;;;Nomen
+"S-Bahn	";"Train	";"die	";"S-Bahnen	";;;Nomen
+"Schreibmaschine	";"typewriter	";"die	";"Schreibmachinen	";;;Nomen
+"Schreibtisch	";"desk	";"der	";"Schreibtische	";;;Nomen
+"Stuhl	";"chair	";"der	";"Stühle	";;;Nomen
+"Uni	";"university	";"die	";"Unis	";;;Nomen
+"Universität	";"university	";"die	";"Universitätn	";;;Nomen
+"Zeitungsanzeige	";"ad	";"die	";"Zeitungsanzeigen	";;;Nomen
+"Aufgabe	";"assignment	";"die	";"Aufgaben	";;;Nomen
+"Lücke	";"gap	";"die	";"Lüken	";;;Nomen
+"Unterschied	";"difference	";"der	";"Unterschiede	";;;Nomen
+"Pult	";"desk	";"das		";Nomen;;;Nomen
+"Bleistift	";"pencil	";"der	";"Bleistifte	";;;Nomen
+"Fernseher	";"TV	";"der	";"-	";;;Nomen
+"Foto	";"foto	";"das	";"Fotos	";;;Nomen
+"Kiste	";"box	";"die	";"Kisten	";;;Nomen
+"Kuss	";"kiss	";"der	";"Küss	";;;Nomen
+"Tod	";"death	";"der	";"Tode	";;;Nomen
+"Regal	";"Shelf	";"das	";"Regale	";;;Nomen
+"Rest	";balance;der;Reste;;;Nomen
+"Segelboot	";"sail boat	";"das	";"Segelboote	";;;Nomen
+"Spiegel	";"mirror	";"der	";"-	";;;Nomen
+"Stiefel	";"boot	";"der	";"-	";;;Nomen
+"Wörterbuch	";"dictionary	";"das	";"Wörterbücher	";;;Nomen
+"Abendkleid	";"evening dress	";"das	";"Abendkleider	";;;Nomen
+"Autoschlüssel	";"car key	";"der	";"-	";;;Nomen
+"Bad	";"bath	";"das	";"Bäder	";;;Nomen
+"Europakarte	";"eurocard	";"die	";"Europakarten	";;;Nomen
+"Fax	";"fax	";"das	";"Faxe	";;;Nomen
+"Geschäft	";"business	";"das	";"Geschäfte	";;;Nomen
+"Hauptstadt	";"capital	";"die	";"Hauptstädte	";;;Nomen
+"Jugendherberge	";"youth hostel	";"die	";"Jugendherbergen	";;;Nomen
+"Kleid	";"dress	";"das	";"Kleider	";;;Nomen
+"Kontaktlinse	";"contact lens	";"die	";"Kontaktlinsen	";;;Nomen
+"Kreditkarte	";"credit card	";"die	";"Kreditkarten	";;;Nomen
+"Museum	";"museum	";"das	";"Museen	";;;Nomen
+"Rasierapparat	";"razor	";"der	";"Rasierapparate	";;;Nomen
+"Restaurant	";"restaurant	";"das	";"Restaurants	";;;Nomen
+"Schlüssel	";"key	";"der	";"-	";;;Nomen
+"Wohnzimmer	";"living room	";"das	";"-	";;;Nomen
+"Zimmerschlüssel	";"room key	";"der	";"-	";;;Nomen
+"Ampel	";"traffic light	";"die	";"Ampeln	";;;Nomen
+"Angst	";"anxiety	";"die	";"Ängste	";;;Nomen
+"Bademütze	";"bath cap	";"die	";"Bademützen	";;;Nomen
+"Feuerwehr	";"firefighters	";"die	";"Feuerwehren	";;;Nomen
+"FuSSgänger	";"pedestrain	";"der	";"-	";;;Nomen
+"FuSSgängerin	";"pedestrain	";"die	";"FuSSgängerinnen	";;;Nomen
+"Hausaufgabe	";"homework	";"die	";"Hausaufgaben	";;;Nomen
+"Krawatte	";"tie	";"die	";"Krawatten	";;;Nomen
+"Motorradfahrer	";"biker	";"der		";Nomen;;;Nomen
+"Pause	";"break	";"die	";"Pausen	";;;Nomen
+"Radfahrerin	";"bicyclist	";"die	";"Radfahrerinnen	";;;Nomen
+"Ruhe	";"rest, calm	";"die	";"-	";;;Nomen
+"Schild	";"buckler, name plate	";"das	";"Schilder	";;;Nomen
+"Spiel	";"game	";"das	";"Spiele	";;;Nomen
+"Stoppschild	";"stop sign	";"das	";"Stoppschilder	";;;Nomen
+"Teilnehmer	";"partner, participant	";"der	";"-	";;;Nomen
+"Wasser	";"water	";"das	";"-	";;;Nomen
+"Wasserball	";"beachball	";"der	";"Wasserbälle	";;;Nomen
+"Zahn	";"tooth	";"der	";"Zähne	";;;Nomen
+"grün	";"green	";"das	";"-	";;;Nomen
+"Bonbon	";"candy	";"das	";"Bonbons	";;;Nomen
+"Brücke	";"bridge	";"die	";"Brücken	";;;Nomen
+"Gedict	";"poem	";"das	";"Gedichte	";;;Nomen
+"Hand	";"hand	";"die	";"Hände	";;;Nomen
+"Hotelzimmer	";"hotel room	";"das	";"-	";;;Nomen
+"Hut	";"hat	";"der	";"Hüte	";;;Nomen
+"Kontakt	";"contact	";"der	";"Kontakte	";;;Nomen
+"Meinung	";"opinion	";"die	";"Meinungen	";;;Nomen
+"Rasen	";"lawn	";"der	";"-	";;;Nomen
+"Regel	";"rule	";"die	";"Regeln	";;;Nomen
+"Regisseur	";"director	";"der	";"Regisseurin	";;;Nomen
+"Stern	";"star	";"der	";"Sterne	";;;Nomen
+"Steuer	";"tax	";"die	";"Steuern	";;;Nomen
+"Strophe	";"verse	";"die	";"Strophen	";;;Nomen
+"Termin	";"appointment	";"der	";"Termine	";;;Nomen
+"Tiger	";"tiger	";"der	";"-	";;;Nomen
+"Toilettenwand	";"toilet wall	";"die	";"Toilettenwände	";;;Nomen
+"Träne	";"tear drop	";"die	";"Tränen	";;;Nomen
+"Vitamin	";"vitamin	";"das	";"Vitamine	";;;Nomen
+"Wand	";"wall	";"die	";"Wände	";;;Nomen
+"Zigarette	";"Cigarate	";"die	";"Zigaretten	";;;Nomen
+"Augenblick	";"moment	";"der	";"Augenblicke	";;;Nomen
+"Babysitter	";"babysitter	";"der	";"-	";;;Nomen
+"Besuch	";"visit	";"der	";"Besuche	";;;Nomen
+"Drucker	";"printer	";"der	";"-	";;;Nomen
+"Ende	";"end	";"das	";"Enden	";;;Nomen
+"Fenster	";"window	";"das	";"-	";;;Nomen
+"Klasse	";"class	";"die	";"Klassen	";;;Nomen
+"Licht	";"light	";"das	";"Lichter	";;;Nomen
+"lust	";"desire	";"die	";"-	";;;Nomen
+"Schüler	";"student	";"der		";Nomen;;;Nomen
+"Tür	";"door	";"die	";"Türen	";;;Nomen
+"Unterricht	";"instruction	";"der	";"Unterrichte	";;;Nomen
+"Delfin	";"dolphin	";"der	";"Delfine	";;;Nomen
+"Idee	";"idea	";"die	";"Ideen	";;;Nomen
+"Papagei	";"parrot	";"der	";"Papageien	";;;Nomen
+"Rekorder	";"rocorder	";"der	";"-	";;;Nomen
+"Ski	";"ski	";"der	";"Skis	";;;Nomen
+"Zeit	";"time	";"die		";Nomen;;;Nomen
+"Anruf	";"call	";"der	";"Anrufe	";;;Nomen
+"Chefin	";"boss	";"der	";"Chefinnen	";;;Nomen
+"Mitarbeiter	";"staff	";"der	";"-	";;;Nomen
+"Taube	";"Pegeon	";"die	";"Tauben	";;;Nomen
+"Turm	";"tower	";"der	";"Türme	";;;Nomen
+"Parkhaus	";"Parking place	";"das	";"Parkhäuser	";;;Nomen
+"Notiz	";"memo	";"die	";"Notizen	";;;Nomen
+"Notizzettel	";"notepad	";"der	";"-	";;;Nomen
+"Nachricht	";"news	";"die	";"Nachrichten	";;;Nomen
+"Kundendienst	";"service	";"der	";"Kundendienste	";;;Nomen
+Antwort;Answer;die;Antworten;;;Nomen
+Bahnhof;Station;der;Bahnhöfe;;;Nomen
+Frage;Question;die;Fragen;;;Nomen
+Klavier;Piano;das;Klaviere;;;Nomen
+Lösung;Solution;die;Lösungen;;;Nomen
+Mann;Man;der;Männer;;;Nomen
+Mensch;human;der;Menschen;;;Nomen
+Musik;music;die;-;;;Nomen
+Polizist;policeman;der;Polizisten;;;Nomen
+Reporterin;"Reporter	";die;Reporterinnen;;;Nomen
+Sänger;singer;der;-;;;Nomen
+Text;text;der;Texte;;;Nomen
+Vergangenheit;past;die;;;;Nomen
+Verkäufer;salesman;der;-;;;Nomen
+Wort;word;das;Wörter;;;Nomen
+Zukunft;future;die;;;;Nomen
+Auto;auto;das;Autos;;;Nomen
+Ball;ball;der;Bälle;;;Nomen
+Automat;machine;der;Automaten;;;Nomen
+Fahrkarte;ticket;die;Fahrkarten;;;Nomen
+Flashe;tube;die;Flashen;;;Nomen
+Geld;money;das;;;;Nomen
+Gepäck;luggage;das;;;;Nomen
+Kaffee;coffee;der;Kaffes;;;Nomen
+Kind;child;das;Kinder;;;Nomen
+Koffer;suitcase;der;-;;;Nomen
+Krankenwagen;ambulance;der;-;;;Nomen
+Mutter;mother;die;Mütter;;;Nomen
+Nummer;number;die;Nummern;;;Nomen
+Polizeiauto;police van;das;Polizeiautos;;;Nomen
+Radio;radio;das;Radios;;;Nomen
+Sohn;son;der;Söhne;;;Nomen
+Tasche;bag;die;Taschen;;;Nomen
+Tee;tee;der;Tees;;;Nomen
+Telefongespräch;"phone call			";das;Telefongespräche;;;Nomen
+Tochter;daughter;die;Töchter;;;Nomen
+Unfall;accident;der;Unfälle;;;Nomen
+Würstchen;sausage;das;;;;Nomen
+Autonummer;car number;die;Autonummern;;;Nomen
+Betonung;emphasis;die;Betonungen;;;Nomen
+Bruder;brother;der;Brüder;;;Nomen
+Eltern;parents;;;;;Nomen
+Familie;family;die;Familien;;;Nomen
+Familienname;family name;der;Familiennanamen;;;Nomen
+Geschwister;sibling;;;;;Nomen
+Grosseltern;grandparents;;;;;Nomen
+Grossmutter;grandma;die;Grossmütter;;;Nomen
+Grossvater;grandpa;der;Grossväter;;;Nomen
+Hund;dog;der;Hunde;;;Nomen
+Jahr;year;das;Jahre;;;Nomen
+Lehrer;teacher;der;-;;;Nomen
+Polizei;police;die;;;;Nomen
+Schwester;sister;die;Schwestern;;;Nomen
+Vater;father;der;Väter;;;Nomen
+Zahl;number;die;Zahlen;;;Nomen
+Umlaut;..;der;Umlaute;;;Nomen
+Ausdruck;expression;der;Aüsdrucke;;;Nomen
+Aussage;statement;die;Aussagen;;;Nomen
+Buchstabe;letter, alphabet;der;Buchstaben;;;Nomen
+Absender;sender;der;-;;;Nomen
+Adresse;address;die;Adressen;;;Nomen
+Ansichtskarte;picture post card;die;Ansichtskarte;;;Nomen
+Bild;picture, photo;das;Bilder;;;Nomen
+Briefmarke;stamp;die;Briefmarken;;;Nomen
+Brille;glasses;die;Brillen;;;Nomen
+Buch;book;das;Bücher;;;Nomen
+Datum;date;das;Daten;;;Nomen
+Dienstag;Tuesday;der;Dienstage;;;Nomen
+Donnerstag;Thursday;der;Donnerstage;;;Nomen
+Empfänger;Addressee, audiance;der;-;;;Nomen
+Freitag;Friday;der;Freitage;;;Nomen
+Gruss;Greeting;der;Grüsse;;;Nomen
+Heft;Booklet;das;Hefte;;;Nomen
+Karte;card;die;Karten;;;Nomen
+Kugelschreiber;ballpen;der;-;;;Nomen
+Leute;people;;;;;Nomen
+Mittwoch;Wedensday;der;;;;Nomen
+Montag;Monday;der;Montage;;;Nomen
+Ort;Place;der;Orte;;;Nomen
+Postleitzahl;Post code;die;Postleitzahlen;;;Nomen
+Samstag;Saturday;der;Samstage;;;Nomen
+Stadt;town;die;Städte;;;Nomen
+Unterschrift;Signature;die;Unterschriften;;;Nomen
+Wetter;weather;das;;;;Nomen
+Wochentag;weekday;der;Wochentage;;;Nomen
+Zettel;chit, label;der;-;;;Nomen
+Übung;Exercise;die;Übungen;;;Nomen
+Nomen;Noun;das;-;;;Nomen
+Beruf;job;der;Berufe;;;Nomen
+Campingplatz;camping ground;der;Campingplätze;;;Nomen
+Computerspiel;computergame;das;Computerspiele;;;Nomen
+Freund;Friend;der;Freunde;;;Nomen
+Handy;cellphone;das;Handys;;;Nomen
+Hobby;Hobby;das;Hobbys;;;Nomen
+Jacke;Coat;die;Jacken;;;Nomen
+Katze;Cat;die;Katzen;;;Nomen
+Lehrer;Teacher;der;-;;;Nomen
+Lehrerin;Teacher;die;Lehrerinnen;;;Nomen
+Mathematiklehrer;Maths teacher;der;-;;;Nomen
+Minute;Minute;die;Minuten;;;Nomen
+Mobiltelefon;Mobile telephone;das;Mobiltelefone;;;Nomen
+Problem;Problem;das;Probleme;;;Nomen
+Pullover;pullover;der;-;;;Nomen
+Rucksack;backpack;der;Rucksäcke;;;Nomen
+Schlafsack;sleeping bag;der;Schlafsäcke;;;Nomen
+Schuh;shoe;der;Schuhe;;;Nomen
+Spiel;game;das;Spiele;;;Nomen
+Sportlehrerin;sport teacher;die;Sportlehrerinnen;;;Nomen
+Studne;hour;die;Stunden;;;Nomen
+Zelt;tent;das;Zelte;;;Nomen
+nass;wet;;;;;Nomen
+Alkohol;alcohol;der;;;;Nomen
+Ballon;Balloon;der;Ballons;;;Nomen
+Bart;beard;der;Bärte;;;Nomen
+Beispiel;example;das;Beispiele;;;Nomen
+Bier;beer;das;Biere;;;Nomen
+Frisör;barber;der;Frisöre;;;Nomen
+Gesicht;face;das;Gesichter;;;Nomen
+Haar;hair;das;Haare;;;Nomen
+Krankenschwester;nurse;die;Krankenschwestern;;;Nomen
+Lied;song;das;Lieder;;;Nomen
+Luftballon;aerostat, ballon;der;Luftballons;;;Nomen
+Mineralwasser;mineral water;das;;;;Nomen
+Rad;wheel;das;Räder;;;Nomen
+"Rekorder	";recorder;der;Rekorde;;;Nomen
+Sekunde;second;das;Sekunden;;;Nomen
+SMS;sms;die;-;;;Nomen
+Sortie;kind, type;die;Sorten;;;Nomen
+Wasser;water;das;;;;Nomen
+weinen;crying;der;Weine;;;Nomen
+Weltrekord;world record;der;Weltrekorde;;;Nomen
+Zeichnung;drawing;die;Zeichnungen;;;Nomen
+Gesundheit;health;die;;;;Nomen
+Angebot;offer;das;Angebote;;;Nomen
+Apfel;apple;der;Äpfel;;;Nomen
+Banane;banana;die;Bananen;;;Nomen
+Brot;bread;das;Brote;;;Nomen
+Cent;cent;der;;;;Nomen
+Durchsage;announcement;die;Durchsagen;;;Nomen
+Euro;euro;der;;;;Nomen
+Freundin;friend;die;Freundinnen;;;Nomen
+Geburtstag;birthday;der;Geburtstage;;;Nomen
+Gramm;gram;das;;;;Nomen
+Kandidat;candidate;der;Kandidaten;;;Nomen
+Karotte;carrot;die;Karotten;;;Nomen
+Kartoffel;potatoes;die;Kartoffeln;;;Nomen
+Kaufhaus;department store;das;Kaufhäuser;;;Nomen
+Kilo;Kilo;das;Kilos;;;Nomen
+Kilogram;kg;das;;;;Nomen
+Komponist;Composer;der;Komponisten;;;Nomen
+Lebensmittel;food, grocery;das;-;;;Nomen
+Liter;liter;der;-;;;Nomen
+Markt;Market;der;Märkte;;;Nomen
+Milch;milk;die;;;;Nomen
+Muzikquiz;music;das;;;;Nomen
+Musikstück;piece of music;das;Musikstücke;;;Nomen
+Panne;breakdown;die;Pannen;;;Nomen
+Pfund;Pound GBP;das;;;;Nomen
+Pilz;Mushroom;der;Pilze;;;Nomen
+geboren;born;;;;;Nomen
+gestorben;dead;;;;;Nomen
+genau;correct;;;;;Nomen
+bestellen;to order sth;;;;;Nomen
+gewinnen;winning;;;;;Nomen
+stimmen;to vote;;;;;Nomen
+wiegen;weighing;;;;;Nomen
+Preis;price;der;Preise;;;Nomen
+Quiz;quiz;das;;;;Nomen
+Reifenpanne;flat tyre;die;Reifenpannen;;;Nomen
+Tomate;tomoto;die;Tomaten;;;Nomen
+Zwiebel;onion;die;Zwiebeln;;;Nomen
+Abend;evening;der;Abende;;;Nomen
+Autor;Author;der;Autoren;;;Nomen
+Autorin;Author;die;Autorinnen;;;Nomen
+Birne;Pear;die;Birnen;;;Nomen
+Butter;Butter;die;;;;Nomen
+Durst;thirst;der;;;;Nomen
+Eis;ice;das;;;;Nomen
+Essig;vinegar;der;;;;Nomen
+Fleisch;meat;ds;;;;Nomen
+Fotograf;photographer;der;Fotografen;;;Nomen
+Fotografin;photographer;die;Fotografinnen;;;Nomen
+Hunger;hunger;der;;;;Nomen
+Kaffee;coffee;der;Kaffes;;;Nomen
+Käse;cheese;der;;;;Nomen
+Kohlensäure;carbonation;die;;;;Nomen
+Kunststudent;art student;der;Kunststudenten;;;Nomen
+Luftmatratze;air mattress;die;Luftmatratzen;;;Nomen
+Maler;artist, painter;der;-;;;Nomen
+Malerin;artist, painter;die;Malerinnen;;;Nomen
+Matratze;Matress;die;Matratzen;;;Nomen
+Möbeltischler;cabinet maker;der;-;;;Nomen
+Morgen;tomorrow;der;-;;;Nomen
+Musiker;musician;der;-;;;Nomen
+Musikerin;musician;die;Musikerinnen;;;Nomen
+Öl;Oil;das;Öle;;;Nomen
+Praktikum;hands on training;das;;;;Nomen
+Reis;rice;der;;;;Nomen
+Reportage;report;die;Reportagen;;;Nomen
+Sahne;cream;die;;;;Nomen
+Salat;salad;der;Salate;;;Nomen
+Schinken;ham;der;-;;;Nomen
+Schwester;sister;die;Schwestern;;;Nomen
+Student;student;der;Studenten;;;Nomen
+Studentin;student;die;Studentinnen;;;Nomen
+Tischler;carpenter;der;-;;;Nomen
+Zwilling;twins;der;Zwillinge;;;Nomen
+Kursteilnehmer;course participant;der;-;;;Nomen
+Alter;age;das;;;;Nomen
+Angabe;description;die;Angaben;;;Nomen
+Animateur;animator, host;der;Animateure;;;Nomen
+Animateurin;animator;die;Animateurinnen;;;Nomen
+Arbeit;job;die;Arbeiten;;;Nomen
+Arbeitsplatz;workplace;der;Arbeitsplätze;;;Nomen
+Ausland;abroad;das;;;;Nomen
+Ausländer;foreigner;der;-;;;Nomen
+Bewerbung;application;die;Bewerbungen;;;Nomen
+Briefmarke;stamp;der;Briefe;;;Nomen
+Camping;camping;das;;;;Nomen
+Chef;boss;der;Chefs;;;Nomen
+Ehemann;husband;der;Ehemänner;;;Nomen
+Einwohner;national, resident, populations;der;-;;;Nomen
+Einwohnerin;national, resident, populations;die;Einwohnerinnen;;;Nomen
+E-Mail;e-mail;die;E-Mails;;;Nomen
+Familienstand;family status;der;;;;Nomen
+Firma;firm;die;;;;Nomen
+Formular;form;das;Formulare;;;Nomen
+Freizeit;leisure, free time;die;;;;Nomen
+Geburtsort;place of birth;der;Geburtsorte4;;;Nomen
+Fussball;football;der;Fussbälle;;;Nomen
+Geschlecht;sex;das;Geschlechter;;;Nomen
+Gewicht;weight;das;Gewochte;;;Nomen
+Gitarre;guitar;die;Gitarren;;;Nomen
+Grösse;size, dimension;die;Grössen;;;Nomen
+Land;country;das;Länder;;;Nomen
+Medizin;medicine;die;;;;Nomen
+Medizinstudent;medical studant;der;Medizinstudenten;;;Nomen
+Meter;meter;der;-;;;Nomen
+seckretärin;secretary;die;Sekretärinnen;;;Nomen
+Sprache;language;die;Sprachen;;;Nomen
+Staatsangehörigkeit;nationality;die;Staatsangehorigkeiten;;;Nomen
+Stelle;job;die;Stellen;;;Nomen
+Strasse;street;die;Strassen;;;Nomen
+Telefonnummer;call number;die;Telefonnummern;;;Nomen
+Tennis;tennis;das;;;;Nomen
+Tischtennis;table tennis;das;;;;Nomen
+Wohnort;domicile;der;Wohnorte;;;Nomen
+Ratespiel;guessing game;das;Ratespiele;;;Nomen
+Ergebnis;finding, ourcome, result,;das;Ergebnisse;;;Nomen
+Anruf;call;der;"Anrufe	";;;Nomen
+Büro;office;das;Büros;;;Nomen
+"Chefin	";boss;die;"Chefinnen	";;;Nomen
+Fernsehfilm;television film;der;Fernsehfilme;;;Nomen
+"Kundendienst	";service;der;;;;Nomen
+Mitarbiter;staff;der;-;;;Nomen
+"Schlüssel	";key;der;-;;;Nomen
+Taube;piegeon;die;Tauben;;;Nomen
+Turm;tower;der;Türme;;;Nomen
+Waschmaschine;wash machine;die;Waschmaschinen;;;Nomen
+Wochenende;weekend;das;Wochenenden;;;Nomen
+Bäckerei;bakery;die;Bäckereien;;;Nomen
+Bank;Bank;die;Bänke;;;Nomen
+Baum;tree;der;Bäume;;;Nomen
+Briefträger;postman;der;-;;;Nomen
+Buchhändler;bookseller;der;-;;;Nomen
+Camper;camper;der;-;;;Nomen
+Fisch;fish;der;Fische;;;Nomen
+Igel;hedgehog;der;-;;;Nomen
+Kellner;waiter;der;-;;;Nomen
+Kopf;head;der;Köpfe;;;Nomen
+Laterne;lamp;die;Laternen;;;Nomen
+Leiter;ladder;die;Leitern;;;Nomen
+Mofa;moped;das;Mofas;;;Nomen
+Mücke;mosquito;die;Mücken;;;Nomen
+Mütze;cap, bonnet;die;Mützen;;;Nomen
+Papier;paper;das;Papiere;;;Nomen
+Pfarrer;prest;der;-;;;Nomen
+Pferd;horse;das;Pferde;;;Nomen
+Pfütze;puddle, drink, sea;die;Pfützen;;;Nomen
+Puppe;doll;die;Puppen;;;Nomen
+Schrank;cupboard;der;Schränke;;;Nomen
+Sofa;sofa;das;Sofas;;;Nomen
+Stall;barn, building for livestock;der;Ställe;;;Nomen
+Teller;plate;Der;-;;;Nomen
+Teppich;carpet;der;Teppiche;;;Nomen
+Ticket;ticket;das;Tickets;;;Nomen
+Tuch;cloth;das;Tücher;;;Nomen
+Wurm;worm;der;Würmer;;;Nomen
+Apotheke;drug store;die;Apotheken;;;Nomen
+Arm;arm;der;Arme;;;Nomen
+Ärztin;doctor;die;Ärztinnen;;;Nomen
+Arzt;doctor;der;Ärzte;;;Nomen
+Arztpraxis;doctor's office;die;Arztpraxen;;;Nomen
+Augenarzt;eye doctor;der;Augenärzte;;;Nomen
+Autofahrer;driver;der;-;;;Nomen
+Bein;leg;das;Beine;;;Nomen
+Bericht;report;der;Berichte;;;Nomen
+Besucher;guest;der;-;;;Nomen
+Blumenhändlerin;floorist;die;Blumenhändlerinnen;;;Nomen
+Brust;chest, breast;die;Brüste;;;Nomen
+Buchhandlung;boohshop;die;Buchhandlungen;;;Nomen
+Doktor;doctor;der;Doktoren;;;Nomen
+Eingang;entrance;der;Eingänge;;;Nomen
+Fahrer;driver;der;-;;;Nomen
+Fahrt;driver;die;Fahrten;;;Nomen
+Feuerwehrmann;fireman;der;Feuerwehrmänner;;;Nomen
+Frisörgeschäft;dontknow;das;Frisörgeschäfte;;;Nomen
+Hafen;harbor;der;Häfen;;;Nomen
+Hafenkrankenhaus;harbor hospital;das;Hafenkrankenhäuser;;;Nomen
+Haken;hook;der;Häken;;;Nomen
+Hals-Nasen-Ohren-Arzt;ENT docktor;der;Ärzte;;;Nomen
+Job;job;der;Jobs;;;Nomen
+Kinderwagen;baby buggy;der;-;;;Nomen
+Kosmetikerin;beautician;die;Kosmetikerinnen;;;Nomen
+Kosmetikgeschäft;beatucian shop;das;Kosmetikgeschäfte;;;Nomen
+Krankenhaus;hospital;das;Krankenhäuser;;;Nomen
+Krankenpfleger;male nurse;der;-;;;Nomen
+Lebensretter;life saver;der;-;;;Nomen
+Notärztin;emergency doctor;die;Notäaztinnen;;;Nomen
+Notarztwagen;emergency ambulance;der;-;;;Nomen
+Notaufnahme;emergency hospitalization;die;Notaufnahmen;;;Nomen
+Opfer;casualty;das;-;;;Nomen
+Personenwagen;passenger car;der;-;;;Nomen
+Praxis;practice;die;Praxen;;;Nomen
+Reaktion;reaction;die;Reaktionnen;;;Nomen
+Sanitäter;ambulance man;der;-;;;Nomen
+Schiff;boat;das;Schiffe;;;Nomen
+Schirm;umbrella;der;Schirme;;;Nomen
+Schmerz;pain;der;Schmerzen;;;Nomen
+Sprechstunde;consultation hour;die;Sprechstunden;;;Nomen
+Tempo;pace;das;;;;Nomen
+Tod;death;der;;;;Nomen
+Unfallopfer;accident victim;das;-;;;Nomen
+Unfallort;accident place;der;Unfallorte;;;Nomen
+Uniform;uniform;die;Uniformen;;;Nomen
+Verkehr;traffic, transport;der;;;;Nomen
+Vorsicht;attention;die;;;;Nomen
+Zahnarzt;dentist;der;Zahnärzte;;;Nomen
+Zahnarztpraxis;dental practice;die;Zahnarztpraxen;;;Nomen
+Zentrale;center;die;Zentralen;;;Nomen
+Ankunft;arrival;die;;;;Nomen
+Ansage;announcement;die;Ansagen;;;Nomen
+Anschluss;pin, connection;der;Anschlüsse;;;Nomen
+Bahnhofcafe;station cafe;das;Bahnhofscafes;;;Nomen
+Bahnsteig;departure platform;der;Bahnsteige;;;Nomen
+Blumenladen;floorist;der;Blumenläden;;;Nomen
+Decke;blanker, ceiling, cover;die;Decken;;;Nomen
+Ehepaar;married couple;das;Ehepaare;;;Nomen
+Einladung;invitation;die;Einladungen;;;Nomen
+Essen;dinner, food, meal;das;-;;;Nomen
+Flughafen;airport;der;Flüghafen;;;Nomen
+Gast;guest;der;Gäste;;;Nomen
+Getränk;drink, beverage;das;Getränke;;;Nomen
+Glas;glass;das;Gläser;;;Nomen
+ICE;;der;;;;Nomen
+Käfig;cage;der;Käfige;;;Nomen
+Kartoffelsalat;potato salad;der;Kartoffelsalate;;;Nomen
+Keller;cellar;der;-;;;Nomen
+Ketchup;ketchup;der;;;;Nomen
+Laden;shop, store;der;Läden;;;Nomen
+Museumsplatz;museum;der;;;;Nomen
+Party;Party;die;Partys;;;Nomen
+Platz;place;der;Plätze;;;Nomen
+Raum;room;der;Räume;;;Nomen
+See;lake;der;Seen;;;Nomen
+Senf;mustard;der;;;;Nomen
+Sportler;athlete;der;-;;;Nomen
+Station;station;die;Stationen;;;Nomen
+Suppe;soup;die;Suppen;;;Nomen
+Tafel;blackboard;die;Tafeln;;;Nomen
+Taxifahrer;cab driver;der;-;;;Nomen
+Teddy;Teddy;der;Teddys;;;Nomen
+Tomatensalat;tomato salad;der;Tomatensalate;;;Nomen
+Vase;vase;die;Vasen;;;Nomen
+Verspätung;delay, late arrival;die;Verspätungen;;;Nomen
+Wald;forest;der;Wälder;;;Nomen
+Wasserflasche;water bottle;die;Wasserflaschen;;;Nomen
+Wurst;sausage;die;Würste;;;Nomen
+Ausflug;trip;der;Aüsfluge;;;Nomen
+Burg;castle;die;Burgen;;;Nomen
+Bushaltestelle;bus stop;die;Bushaltestellen;;;Nomen
+Cafe;cafe;das;Cafes;;;Nomen
+Computergeschäft;shop;das;Computergeschäfte;;;Nomen
+Dom;cathedral;der;Dome;;;Nomen
+Doppelzimmer;double room;das;-;;;Nomen
+Ecke;corner;die;Ecken;;;Nomen
+Einzelzimmer;single room;das;-;;;Nomen
+Entschuldigung;i am sorry;die;Entschuldigungen;;;Nomen
+Fahrradvermietung;bike renting;die;Fahrradvermietungen;;;Nomen
+Früstück;breakfast;das;Früstücke;;;Nomen
+Halbpension;demi pension;die;Halbpensionen;;;Nomen
+Haltestelle;stop;die;Haltestellen;;;Nomen
+HauptstraSSe;main street;die;HauftstraSSen;;;Nomen
+Internet-Anschluss;internet connection;der;Anschlüsse;;;Nomen
+Kindergarten;kindergarten;der;Kindergärten;;;Nomen
+Kirche;church;die;Kirchen;;;Nomen
+Konzert;concert;das;Konzerte;;;Nomen
+Konzertkarte;concert ticket;die;Konzertkarten;;;Nomen
+Kreuzung;crossroads;die;Kreuzungen;;;Nomen
+Lokal;pub;das;Lokale;;;Nomen
+Nacht;night;die;Nächte;;;Nomen
+Nähe;adjance, closeness;die;;;;Nomen
+Post;post;die;;;;Nomen
+Rathaus;townhall;das;Rathäuser;;;Nomen
+Regen;rain;der;;;;Nomen
+Reisebüro;travel agency;das;Reisebüros;;;Nomen
+Schloss;castle, palace;das;Schlösser;;;Nomen
+Schule;school;die;Schulen;;;Nomen
+Swimmbad;swimming pool;das;Schwimmbäder;;;Nomen
+Sehenswürdigkeit;landmark, object of interest;die;Sehenswürdigkeiten;;;Nomen
+Sportplatz;sports field;der;Sportplätze;;;Nomen
+StraSSenbahn;tram;die;StraSSenbahnen;;;Nomen
+StraSSenbahnhaltestelle;tram stop;die;StraSSenbahnhaltestellen;;;Nomen
+Stück;piece;das;Stücke;;;Nomen
+Telefonzelle;telephone booth;die;Telefonzellen;;;Nomen
+Tennisplatz;tennis court;der;Tennisplätze;;;Nomen
+Touristeninformation;tourist information;die;Touristeninformationen;;;Nomen
+Übernachtung;accommodation;die;Übernachtungen;;;Nomen
+Ursache;cause;die;Ursachen;;;Nomen
+Vollpension;full board;die;;;;Nomen
+Wanderweg;hiking trail;der;Wanderwege;;;Nomen
+Weg;path;der;Wege;;;Nomen
+Abfahrt;departure;die;Abfahrten;;;Nomen
+Anreise;arrival;die;Anreisen;;;Nomen
+August;August;der;;;;Nomen
+Autobahn;freeway;die;Autobahnen;;;Nomen
+Autobahn-Abfahrt;exit;die;Autobahn-Abfahrten;;;Nomen
+Bauernhof;farm, garage, bar;der;Bauernhöfe;;;Nomen
+Bilddatenbank;image databank;die;Bilddatenbanken;;;Nomen
+Bitte;plea, request;die;Bitten;;;Nomen
+BundesstraSSe;federal highway;die;BundesstraSSen;;;Nomen
+Clubhaus;clubhause;das;Clubhäuser;;;Nomen
+Dame;lady;die;Damen;;;Nomen
+Erlebnis;adventure, experience;das;Erlebnisse;;;Nomen
+Fakt;fact;Der;Fakten;;;Nomen
+Gebutsagsfeier;birthday party;die;Geburtstagsfeiern;;;Nomen
+Hauptbahnhof;central railwaystation;der;Hauptbahnhöfe;;;Nomen
+Hoteladresse;;die;Hoteladressen;;;Nomen
+Internat-Seite;internet page;die;Internet-Seiten;;;Nomen
+Juli;Luly;der;;;;Nomen
+Kilometer;kilometer;der;-;;;Nomen
+Kinderzimmer;children room;das;-;;;Nomen
+Kultur;culture;die;Kulturen;;;Nomen
+Kurve;bend;die;Kurven;;;Nomen
+Lageplan;floor plan, layout plan;der;Lagepläne;;;Nomen
+Linie;line, route;die;Linien;;;Nomen
+Link;link;der;Links;;;Nomen
+Parkplatz;parking area;der;Parkplätze;;;Nomen
+Plan;plan, map;der;Pläne;;;Nomen
+Prospekt;brochure;der;Prospekte;;;Nomen
+Region;region;die;Regionen;;;Nomen
+Richtung;direction;die;Richtungen;;;Nomen
+Stadtplan;city map;der;Stadtpläne;;;Nomen
+Tankstelle;filling station;die;Tankstellen;;;Nomen
+Theater;theater;das;-;;;Nomen
+Tourismus;tourism;der;;;;Nomen
+Unterkunft;accommodation;die;Unterkünfte;;;Nomen
+Veranstaltung;presentation;die;Veranstaltungen;;;Nomen
+Wegbeschreibung;directions, location plan;die;Wegbeschreibungen;;;Nomen
+Abendessen;dinner;das;-;;;Nomen
+Alltag;daily routine;der;;;;Nomen
+Arbeitszimmer;study room;das;-;;;Nomen
+Fernsehprogramm;tv program;das;Fernsehhprogramme;;;Nomen
+Garten;garden;der;Gärten;;;Nomen
+Kakao;cocoa;der;;;;Nomen
+Loch;hole;das;Löcher;;;Nomen
+Nachmittag;afternoon;der;Nachmittage;;;Nomen
+Rechnung;bill, calculation;die;Rechnungen;;;Nomen
+Tätigkeit;activity, function, occupation;die;Tätigkeiten;;;Nomen
+Traum;dream;der;Träume;;;Nomen
+Vormittag;forenoon;der;Vormittage;;;Nomen
+Abendbrot;supper, light evening meal;das;;;;Nomen
+Arbeitstag;work day;der;Arbeitstage;;;Nomen
+Arzttermin;Appointment;der;Arzttermine;;;Nomen
+Bauer;farmer;der;Bauern;;;Nomen
+Bäuerin;farmer;die;Bäuerinnen;;;Nomen
+Büroarbeit;clerical work;die;Büroarbeiten;;;Nomen
+Feierabend;closing time;der;Feierabende;;;Nomen
+Feld;field, domain;das;Felder;;;Nomen
+Fernsehen;TV;das;;;;Nomen
+Gemüse;vegetables;das;;;;Nomen
+Glück;joy, luck;das;;;;Nomen
+Hausarbeit;domestic work;die;Aausarbeiten;;;Nomen
+Huhn;chicken;das;Hühner;;;Nomen
+Hühnerstall;chicken house;der;Hühnerstalle;;;Nomen
+Interview;interview;das;Interviews;;;Nomen
+Joghurt;Joghourt;der;;;;Nomen
+Journalistin;lournalist;die;Journalistinnen;;;Nomen
+Kuh;cow;die;Kühe;;;Nomen
+Landwirt;farmer;der;Landwirte;;;Nomen
+Lieblingsmannschaft;favourate team;die;Lieblingsmannschaften;;;Nomen
+Mai;May;der;;;;Nomen
+Maschine;machine;die;Maschinen;;;Nomen
+Mittag;midday;der;;;;Nomen
+Mittagessen;lunch;das;-;;;Nomen
+Mittagspause;lunch break;die;Mittagspausen;;;Nomen
+Mittagsschlaf;afternoon nap;der;;;;Nomen
+Mitternacht;midnight;die;;;;Nomen
+Obst;fruit;das;;;;Nomen
+Ordnung;order, arrangement;die;Ordnungen;;;Nomen
+Rechtsanwalt;advocate;der;Rechtsanwälte;;;Nomen
+Reparatur;Repair;die;Reparaturen;;;Nomen
+Schalter;Switch, counter;der;-;;;Nomen
+Schwein;pig;das;Schweine;;;Nomen
+Serie;series;die;Serien;;;Nomen
+Sessel;armchair;der;-;;;Nomen
+Stallarbeit;;die;Stallarbeiten;;;Nomen
+Tasse;cup;die;Tassen;;;Nomen
+Urlaub;holiday, leave;der;Urlaube;;;Nomen
+Viertel;quarter;das;-;;;Nomen
+Viertelstunde;quarter hour;die;Viertelstunden;;;Nomen
+Wäsche;laundry;die;;;;Nomen
+Woche;week;die;Wochen;;;Nomen
+Teil;part, piece;der;Teile;;;Nomen
+Einleitung;initiation, introduction;die;Einleitungen;;;Nomen
+Abschnitt;article, chapter, clause;der;Abschnitte;;;Nomen
+Vermutung;assumption;die;Vermutungen;;;Nomen
+Zeile;scan, trace, streak;die;Zeilen;;;Nomen
+April;April;der;;;;Nomen
+Auge;eye;das;Augen;;;Nomen
+Bäcker;baker;der;-;;;Nomen
+Brötchen;bread roll, bun;das;-;;;Nomen
+Dezember;December;der;;;;Nomen
+Disco;club;die;Discos;;;Nomen
+Ei;egg;das;Eier;;;Nomen
+Februar;February;der;;;;Nomen
+Flugzeug;Aircraft;das;Flugzeuge;;;Nomen
+Gorilla;Gorilla;der;Gorillas;;;Nomen
+Gott;god;der;Götter;;;Nomen
+Januar;January;der;;;;Nomen
+Juni;June;der;;;;Nomen
+Kamel;camel;das;Kamele;;;Nomen
+Lieblingsmannschaft;favorite team;der;Lieblinge;;;Nomen
+März;March;der;;;;Nomen
+November;November;der;;;;Nomen
+Oktober;October;der;;;;Nomen
+Park ;Park;der;Parks;;;Nomen
+Passagier;Passenger;der;Passagiere;;;Nomen
+Rente;pension;die;Renten;;;Nomen
+Salz;salt;das;;;;Nomen
+September;september;der;;;;Nomen
+Stewardess;ar hostess;die;Stewardessen;;;Nomen
+Tagesablauf;daily routine;der;Tagesabläufe;;;Nomen
+Typ;type;der;Typen;;;Nomen
+Uhrzeit;time of day;die;Uhrzeiten;;;Nomen
+Vogel;bird;der;Vögel;;;Nomen
+Wecker;alarm clock;der;-;;;Nomen
+Wiese;lawn, meadow;die;Wiesen;;;Nomen
+Wort;word;das;Wörter;;;Nomen
+Wunde;wound;die;Wunden;;;Nomen
+Wüste;sausage;die;Wüsten;;;Nomen
+Bratwurst;fried sausage;die;Bratwürste;;;Nomen
+Cola;cola;die;Colas;;;Nomen
+Eistee;icetee;der;;;;Nomen
+Frikadelle;meatball, hamburger;die;Frikadellen;;;Nomen
+Garage;garage;die;Garagen;;;Nomen
+Gas;gas;das;;;;Nomen
+Geschirr;crockery;das;;;;Nomen
+Hähnchen;chicken;das;-;;;Nomen
+Hamburger;hamburger;der;-;;;Nomen
+Haustür;front entry door;die;Haustüren;;;Nomen
+Limonade;lemonade;die;Limonaden;;;Nomen
+Mayonnaise;egg yolks;die;;;;Nomen
+Pommes fries;chips;die;;;;Nomen
+Schluss;finish, conclusion;der;;;;Nomen
+Schnellimbiss;fast food;der;Schnellimbisse;;;Nomen
+Schnitzel;chip, scrap;das;-;;;Nomen
+Speise;dish, food;die;Speisen;;;Nomen
+Speisekarte;menu;die;Speisekarten;;;Nomen
+Strom;power;der;;;;Nomen
+Treppe;stairs;die;Treppen;;;Nomen
+Abflug;departure, takeoff;der;Abflüge;;;Nomen
+Anfang;start, beginning;der;Anfänge;;;Nomen
+Besichtigung;sightseeing;die;Besichtugungen;;;Nomen
+Besprechung;conference, discussion;die;Besprechungen;;;Nomen
+Blick;look;der;Blicke;;;Nomen
+Dorf;village;das;Dörfer;;;Nomen
+Erfolg;success;der;Erfolge;;;Nomen
+Fahrradtour;bicycle tour;die;Fahrradtouren;;;Nomen
+Feiertag;holiday;der;Feiertage;;;Nomen
+Fernsehturm;tv tower;der;Fernsehtürme;;;Nomen
+Frühjahr;spring;das;;;;Nomen
+Führung;;der;Führungen;;;Nomen
+Gartenparty;;die;Gaternpartys;;;Nomen
+Gewitter;conduct, direction;das;-;;;Nomen
+Herbst;Autumn, fall;der;;;;Nomen
+Himmel;sky;der;;;;Nomen
+Konferenz;conference;die;Konferenzen;;;Nomen
+Kunde;client, customer;der;Kunden;;;Nomen
+Lebensjahr;at the age of;das;Lebensjare;;;Nomen
+Maifeiertag;;der;Maifeiertage;;;Nomen
+Meer;Ocean;das;Meere;;;Nomen
+Norden;North;der;;;;Nomen
+Nordsee;Northsea;die;;;;Nomen
+Oma;Grandma;die;Omas;;;Nomen
+Osten;eastward, east;der;;;;Nomen
+Ostsee;Baltic sea;die;;;;Nomen
+Passagier;passenger;der;Pässe;;;Nomen
+Regierungsgebäude;governmenr building;das;-;;;Nomen
+Reichstag;the diet;der;;;;Nomen
+Sonne;Sun;die;Sonnen;;;Nomen
+Spaziergang;walk, excursion;der;Spaziergänge;;;Nomen
+Süden;South;der;;;;Nomen
+Symbol;Symbol;das;Symbole;;;Nomen
+Temperatur;Temperature;die;Temperaturen;;;Nomen
+Terminkalender;Appointment calendar;der;-;;;Nomen
+Westen;West;der;;;;Nomen
+Wetterkarte;Weather chart;die;Wetterkarten;;;Nomen
+Wind;Wind;der;Winde;;;Nomen
