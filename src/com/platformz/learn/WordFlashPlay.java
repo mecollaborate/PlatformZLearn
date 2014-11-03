@@ -29,7 +29,6 @@ public class WordFlashPlay extends Activity implements OnClickListener {
 	File mPath = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
 
 	TextView p1_tx, p2_tx, p3_tx, p4_tx, p5_tx, id_tx, name_tx, type_tx;
-	Button pre_bt, nxt_bt, del_bt, upd_bt, flash_bt, add_bt;
 	CheckBox  name_cb, p1_cb, p2_cb, p3_cb, p4_cb, p5_cb;
 	SQLController dbcon;
 	
@@ -50,7 +49,7 @@ public class WordFlashPlay extends Activity implements OnClickListener {
 	CheckBox word_p3_cb;
 	CheckBox word_p4_cb;
 	
-	Button word_lt_bt, word_flash_bt, word_rt_bt, word_add_bt, word_del_bt;
+	Button word_lt_bt, word_flash_bt, word_rt_bt;
 
 	String Id_str, Name_str, Meaning_str, P1_str, P2_str, P3_str, Type_str ;
 	
@@ -140,7 +139,7 @@ public class WordFlashPlay extends Activity implements OnClickListener {
 	public void returnHome() {
 
 		Intent home_intent = new Intent(getApplicationContext(),
-				WordsFragment.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+				HomeFragment.class).setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 		startActivity(home_intent);
 	}
 
@@ -148,10 +147,6 @@ public class WordFlashPlay extends Activity implements OnClickListener {
 	public void onClick(View v) {
 	
 		switch (v.getId()) {
-		case R.id.word_add_bt:
-			Add();
-			break;
-			
 		case R.id.word_word_cb:
 			flashName_b = ((CheckBox) v).isChecked();
 			RefreshPage(flashPress_b);
@@ -191,18 +186,7 @@ public class WordFlashPlay extends Activity implements OnClickListener {
 			flashPress_b = true;
 			TraverseCursor(0, flashPress_b);
 			break;
-			
-		case R.id.word_del_bt:
-			Cursor c = WordsFragment.mCursor;
-			if(c == null)
-				break;
-
-			Id_str = c.getString(0);
-			
-			long idd = Long.parseLong(Id_str);
-			dbcon.deleteDataWord(idd);
-			this.returnHome();
-			break;
+		
 		}
 		flashPress_b = false;
 	}
@@ -279,13 +263,9 @@ public class WordFlashPlay extends Activity implements OnClickListener {
 		word_lt_bt = (Button)findViewById(R.id.word_lt_bt);
 		word_flash_bt = (Button)findViewById(R.id.word_flash_bt);
 		word_rt_bt = (Button)findViewById(R.id.word_rt_bt);
-		word_add_bt = (Button)findViewById(R.id.word_add_bt);
-		word_del_bt = (Button)findViewById(R.id.word_del_bt);
 		
 		word_lt_bt.setOnClickListener(this);
 		word_flash_bt.setOnClickListener(this);
 		word_rt_bt.setOnClickListener(this);
-		word_add_bt.setOnClickListener(this);
-		word_del_bt.setOnClickListener(this);
 	}
 }

@@ -63,16 +63,16 @@ public class MainActivity extends FragmentActivity {
 		// adding nav drawer items to array
 		// Home
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[0], navMenuIcons.getResourceId(0, -1)));
-		// Find People
+		// German Words
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[1], navMenuIcons.getResourceId(1, -1)));
-		// Photos
+		// German Verbs
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[2], navMenuIcons.getResourceId(2, -1)));
-		// Communities, Will add a counter here
-		navDrawerItems.add(new NavDrawerItem(navMenuTitles[3], navMenuIcons.getResourceId(3, -1), true, "22"));
-		// Pages
+		// Append German Words
+		navDrawerItems.add(new NavDrawerItem(navMenuTitles[3], navMenuIcons.getResourceId(3, -1)));
+		// Append German Verbs
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[4], navMenuIcons.getResourceId(4, -1)));
 		// What's hot, We  will add a counter here
-		navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1), true, "50+"));
+		navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1)));
 		
 
 		// Recycle the typed array
@@ -175,11 +175,11 @@ public class MainActivity extends FragmentActivity {
 		case 2:
 			fragment = new VerbsFragment();
 			break;
-		case 3:
-			fragment = new CommunityFragment();
+		case 3://append german words
+			fragment = new AppendWordFragment();
 			break;
-		case 4:
-			fragment = new PagesFragment();
+		case 4://append german verbs
+			fragment = new AppendVerbFragment();
 			break;
 		case 5:
 			fragment = new WhatsHotFragment();

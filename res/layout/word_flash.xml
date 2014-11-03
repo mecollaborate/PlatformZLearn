@@ -203,8 +203,8 @@
             android:id="@+id/word_lt_bt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:text="@string/left_T" />
+            android:text="@string/left_T"
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/word_flash_bt"
@@ -217,8 +217,9 @@
             android:id="@+id/word_rt_bt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:text="@string/right_T" />
+            android:text="@string/right_T"
+            android:textSize="20sp" />
+
     </LinearLayout>
 
     <View
@@ -234,18 +235,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal" >
-
-        <Button
-            android:id="@+id/word_add_bt"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Import from Download/words.csv" />
-
-        <Button
-            android:id="@+id/word_del_bt"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Delete" />
     </LinearLayout>
 
     <Space

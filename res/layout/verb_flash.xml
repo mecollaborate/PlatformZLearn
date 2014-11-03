@@ -234,18 +234,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal" >
-
-        <Button
-            android:id="@+id/verb_add_bt"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Import from Download/verbs.csv" />
-
-        <Button
-            android:id="@+id/verb_del_bt"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Delete" />
     </LinearLayout>
 
     <Space

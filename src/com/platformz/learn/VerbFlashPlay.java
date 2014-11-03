@@ -31,7 +31,6 @@ public class VerbFlashPlay extends Activity implements OnClickListener {
 	static Boolean flashPress_b = false;
 
 	TextView p1_tx, p2_tx, p3_tx, id_tx, name_tx, type_tx;
-	Button pre_bt, nxt_bt, del_bt, upd_bt, flash_bt, add_bt;
 	CheckBox name_cb, p1_cb, p2_cb, p3_cb;
 	SQLController dbcon;
 
@@ -50,7 +49,7 @@ public class VerbFlashPlay extends Activity implements OnClickListener {
 	CheckBox verb_p2_cb;
 	CheckBox verb_p3_cb;
 
-	Button verb_lt_bt, verb_flash_bt, verb_rt_bt, verb_add_bt, verb_del_bt;
+	Button verb_lt_bt, verb_flash_bt, verb_rt_bt ;
 
 	String Id_str, Name_str, Meaning_str, P1_str, P2_str, P3_str, Type_str;
 
@@ -149,9 +148,6 @@ public class VerbFlashPlay extends Activity implements OnClickListener {
 	public void onClick(View v) {
 
 		switch (v.getId()) {
-		case R.id.verb_add_bt:
-			Add();
-			break;
 		case R.id.verb_word_cb:
 			flashName_b = ((CheckBox) v).isChecked();
 			RefreshPage(flashPress_b);
@@ -189,18 +185,6 @@ public class VerbFlashPlay extends Activity implements OnClickListener {
 		case R.id.verb_flash_bt:
 			flashPress_b = true;
 			TraverseCursor(0, flashPress_b);
-			break;
-
-		case R.id.verb_del_bt:
-			Cursor c = VerbsFragment.mCursor;
-			if (c == null)
-				break;
-
-			Id_str = c.getString(0);
-
-			long idd = Long.parseLong(Id_str);
-			dbcon.deleteDataVerb(idd);
-			this.returnHome();
 			break;
 		}
 		flashPress_b = false;
@@ -273,13 +257,9 @@ public class VerbFlashPlay extends Activity implements OnClickListener {
 		verb_lt_bt = (Button) findViewById(R.id.verb_lt_bt);
 		verb_flash_bt = (Button) findViewById(R.id.verb_flash_bt);
 		verb_rt_bt = (Button) findViewById(R.id.verb_rt_bt);
-		verb_add_bt = (Button) findViewById(R.id.verb_add_bt);
-		verb_del_bt = (Button) findViewById(R.id.verb_del_bt);
 
 		verb_lt_bt.setOnClickListener(this);
 		verb_flash_bt.setOnClickListener(this);
 		verb_rt_bt.setOnClickListener(this);
-		verb_add_bt.setOnClickListener(this);
-		verb_del_bt.setOnClickListener(this);
 	}
 }

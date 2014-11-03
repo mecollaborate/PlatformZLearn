@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Platform Z - Learn</string>
+    <string name="app_name">Learning P</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="drawer_open">Slider Menu Opened</string>
@@ -12,8 +12,8 @@
         <item >Home</item>
         <item >German Words</item>
         <item >German Verbs</item>
-        <item >Add German Words</item>
-        <item >About</item>
+        <item >Append Words</item>
+        <item >Append Verbs</item>
         <item >What\'s Hot</item>
     </string-array>
     
